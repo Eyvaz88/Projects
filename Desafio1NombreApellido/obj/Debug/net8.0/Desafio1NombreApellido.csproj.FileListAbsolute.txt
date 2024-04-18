@@ -1,0 +1,14 @@
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.exe
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.deps.json
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.runtimeconfig.json
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.pdb
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.AssemblyInfoInputs.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.AssemblyInfo.cs
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.csproj.CoreCompileInputs.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\refint\Desafio1NombreApellido.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.pdb
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.genruntimeconfig.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\ref\Desafio1NombreApellido.dll
