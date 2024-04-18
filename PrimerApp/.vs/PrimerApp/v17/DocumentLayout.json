@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a_eyv\\OneDrive\\Escritorio\\Archivos\\Cursos CoderHouse\\Curso C#\\01.Clase\\PrimerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD5CA0-7301-4F6E-B116-2C6F726493ED}|PrimerApp.csproj|c:\\users\\a_eyv\\onedrive\\escritorio\\archivos\\cursos coderhouse\\curso c#\\01.clase\\primerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DD5CA0-7301-4F6E-B116-2C6F726493ED}|PrimerApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a_eyv\\OneDrive\\Escritorio\\Archivos\\Cursos CoderHouse\\Curso C#\\01.Clase\\PrimerApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\a_eyv\\OneDrive\\Escritorio\\Archivos\\Cursos CoderHouse\\Curso C#\\01.Clase\\PrimerApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T00:24:20.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

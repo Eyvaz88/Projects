@@ -1,0 +1,14 @@
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\PrimerApp\bin\Debug\net8.0\PrimerApp.exe
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\PrimerApp\bin\Debug\net8.0\PrimerApp.deps.json
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\PrimerApp\bin\Debug\net8.0\PrimerApp.runtimeconfig.json
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\PrimerApp\bin\Debug\net8.0\PrimerApp.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\PrimerApp\bin\Debug\net8.0\PrimerApp.pdb
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\PrimerApp\obj\Debug\net8.0\PrimerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\PrimerApp\obj\Debug\net8.0\PrimerApp.AssemblyInfoInputs.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\PrimerApp\obj\Debug\net8.0\PrimerApp.AssemblyInfo.cs
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\PrimerApp\obj\Debug\net8.0\PrimerApp.csproj.CoreCompileInputs.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\PrimerApp\obj\Debug\net8.0\PrimerApp.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\PrimerApp\obj\Debug\net8.0\refint\PrimerApp.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\PrimerApp\obj\Debug\net8.0\PrimerApp.pdb
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\PrimerApp\obj\Debug\net8.0\PrimerApp.genruntimeconfig.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Cursos CoderHouse\Curso C#\01.Clase\PrimerApp\obj\Debug\net8.0\ref\PrimerApp.dll
