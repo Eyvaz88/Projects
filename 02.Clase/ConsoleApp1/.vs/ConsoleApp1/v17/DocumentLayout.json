@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a_eyv\\OneDrive\\Escritorio\\Archivos\\Github\\C# Projects\\02.Clase\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55ECF80A-F864-4493-90D9-619FB58E49FF}|..\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\a_eyv\\onedrive\\escritorio\\archivos\\github\\c# projects\\02.clase\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96104878-26CA-40CE-924F-1DF5EEB21C32}|..\\ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\a_eyv\\onedrive\\escritorio\\archivos\\github\\c# projects\\02.clase\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6DF008-0C9B-490C-B86A-DB080DD5484E}|ConsoleApp1.csproj|c:\\users\\a_eyv\\onedrive\\escritorio\\archivos\\github\\c# projects\\02.clase\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6DF008-0C9B-490C-B86A-DB080DD5484E}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a_eyv\\OneDrive\\Escritorio\\Archivos\\Github\\C# Projects\\02.Clase\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\a_eyv\\OneDrive\\Escritorio\\Archivos\\Github\\C# Projects\\02.Clase\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:19:54.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a_eyv\\OneDrive\\Escritorio\\Archivos\\Github\\C# Projects\\02.Clase\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\a_eyv\\OneDrive\\Escritorio\\Archivos\\Github\\C# Projects\\02.Clase\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T00:53:10.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a_eyv\\OneDrive\\Escritorio\\Archivos\\Github\\C# Projects\\02.Clase\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\a_eyv\\OneDrive\\Escritorio\\Archivos\\Github\\C# Projects\\02.Clase\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T00:19:24.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
