@@ -1,0 +1,15 @@
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\bin\Debug\net8.0\AppVentas.exe
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\bin\Debug\net8.0\AppVentas.deps.json
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\bin\Debug\net8.0\AppVentas.runtimeconfig.json
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\bin\Debug\net8.0\AppVentas.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\bin\Debug\net8.0\AppVentas.pdb
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.AssemblyInfoInputs.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.AssemblyInfo.cs
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.csproj.CoreCompileInputs.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.sourcelink.json
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\obj\Debug\net8.0\refint\AppVentas.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.pdb
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\obj\Debug\net8.0\AppVentas.genruntimeconfig.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\AppVentas\obj\Debug\net8.0\ref\AppVentas.dll

@@ -1,0 +1,15 @@
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.exe
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.deps.json
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.runtimeconfig.json
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.pdb
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.AssemblyInfoInputs.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.AssemblyInfo.cs
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.csproj.CoreCompileInputs.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.sourcelink.json
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\obj\Debug\net8.0\refint\CadenasBucles.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.pdb
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.genruntimeconfig.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\03.Clase\CadenasBucles\obj\Debug\net8.0\ref\CadenasBucles.dll

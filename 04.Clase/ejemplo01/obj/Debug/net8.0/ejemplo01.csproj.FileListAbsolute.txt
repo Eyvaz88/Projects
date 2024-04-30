@@ -1,0 +1,15 @@
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.AssemblyInfoInputs.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.AssemblyInfo.cs
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.csproj.CoreCompileInputs.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.sourcelink.json
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\bin\Debug\net8.0\ejemplo01.exe
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\bin\Debug\net8.0\ejemplo01.deps.json
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\bin\Debug\net8.0\ejemplo01.runtimeconfig.json
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\bin\Debug\net8.0\ejemplo01.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\bin\Debug\net8.0\ejemplo01.pdb
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\obj\Debug\net8.0\refint\ejemplo01.dll
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.pdb
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.genruntimeconfig.cache
+C:\Users\a_eyv\OneDrive\Escritorio\Archivos\Github\C# Projects\04.Clase\ejemplo01\obj\Debug\net8.0\ref\ejemplo01.dll
